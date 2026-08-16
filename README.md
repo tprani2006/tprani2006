@@ -53,6 +53,8 @@
 
 A full-stack **Alumni Management Portal** developed using the MERN Stack.
 
+🌐  [alumni-portal-inky.vercel.app](https://alumni-portal-inky.vercel.app/)
+
 **Features:**
 
 - 🔐 User Authentication
