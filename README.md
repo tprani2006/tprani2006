@@ -53,7 +53,7 @@
 
 A full-stack **Alumni Management Portal** developed using the MERN Stack.
 
-🌐  [alumni-portal-inky.vercel.app](https://alumni-portal-inky.vercel.app/)
+🌐 [alumni-portal-inky.vercel.app](https://alumni-portal-inky.vercel.app/)
 
 **Features:**
 
@@ -130,14 +130,13 @@ Built multiple web applications as part of learning and internship activities.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=tprani2006&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tprani2006&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tprani2006&custom_title=T%20Pranitha's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f6feb&area=true&hide_border=true&radius=12"
+    width="100%"
+  />
 </p>
 
 ---
@@ -167,16 +166,16 @@ Built multiple web applications as part of learning and internship activities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/t-pranitha-a8359b377/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/tprani2006">
-    <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Pranitha_T/">
-    <img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/t_pranitha">
-    <img src="https://img.shields.io/badge/CODECHEF-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
